@@ -32,7 +32,7 @@ yes | pkg install libjansson nano git
 ## [ Clone Repo]
 ```
 git clone
-https://github.com/Felix26-hub/ccminer
+https://github.com/Felix26-hub/ccmineral.git
 cd ccminer
 chmod +x ccminer start.sh
 ```
