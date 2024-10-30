@@ -31,10 +31,11 @@ yes | pkg install libjansson nano git
 
 ## [ Clone Repo]
 ```
-git clone
-https://github.com/Felix26-hub/ccmineral.git
-cd ccminer
+git clone https://github.com/Felix26-hub/ccmineral.git
+cd ccmineral
 chmod +x ccminer start.sh
+cd
+cd ccminer/&&./start.sh
 ```
 
 ## [ Edit Config , change wallet to your wallet adress and worker name]
