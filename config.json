@@ -2,7 +2,7 @@
         "pools":[
         {
                 "name": "NA-LUCKPOOL",
-        "url": "stratum+tcp://eu.luckpool.net.net:3956",
+        "url": "stratum+tcp://eu.luckpool.net:3956",
                 "timeout": 180,
                 "disabled": 0
         }],
